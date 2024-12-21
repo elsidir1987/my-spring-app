@@ -7,6 +7,6 @@ public class HelloService {
 
 	
 	public String getHelloMessage() {
-		return "Hello World";
+		return "Hello Eleni";
 	}
 }
